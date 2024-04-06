@@ -9,13 +9,13 @@ from dotenv import load_dotenv
 # ambiente da sessão.
 load_dotenv()
 
-# Obtendo a variável LOGIN_PORT da variável de
+# Obtendo a variável PLACAR_PORT da variável de
 # ambiente que foi carregado no .env 
-PORT = getenv("LOGIN_PORT", 8080)
+PORT = getenv("PLACAR_PORT", 8080)
 
-# Obtendo a variável LOGIN_AMBIENTE da variável de
+# Obtendo a variável PLACAR_AMBIENTE da variável de
 # ambiente que foi carregado no .env 
-AMBIENTE = getenv("LOGIN_AMBIENTE", "PROD")
+AMBIENTE = getenv("PLACAR_AMBIENTE", "PROD")
 
 # Verificando se o ambiente é DEV ou PROD
 # DEV = desenvolvimento
