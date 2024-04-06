@@ -1,0 +1,30 @@
+[
+    {
+        "servidor": "hotmail",
+        "remetente": "bob@example.com",
+        "destinatario": "alice@hotmail.com",
+        "titulo": "Convite para confraternização",
+        "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et cursus diam. Pellentesque volutpat non turpis vel convallis. Duis faucibus nisi sit amet diam tempus egestas. Sed quis orci purus. Nullam cursus, mi non eleifend hendrerit, risus urna tincidunt quam, in rutrum felis enim eu eros. Quisque ac scelerisque massa. Sed ac finibus neque, ut commodo est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean semper quis velit in posuere. Sed in feugiat magna, vitae dictum justo. Nulla quis tellus in sapien pharetra facilisis. Vivamus eget mollis massa. Nulla aliquam neque eu neque ultricies faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi sed est sed mi congue ornare. Maecenas ut pulvinar felis, at imperdiet nibh."
+    },
+    {
+        "servidor": "gmail",
+        "remetente": "rh@sistema.com",
+        "destinatario": "bob@example.com",
+        "titulo": "Adição salarial",
+        "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et cursus diam. Pellentesque volutpat non turpis vel convallis. Duis faucibus nisi sit amet diam tempus egestas. Sed quis orci purus. Nullam cursus, mi non eleifend hendrerit, risus urna tincidunt quam, in rutrum felis enim eu eros. Quisque ac scelerisque massa. Sed ac finibus neque, ut commodo est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean semper quis velit in posuere. Sed in feugiat magna, vitae dictum justo. Nulla quis tellus in sapien pharetra facilisis. Vivamus eget mollis massa. Nulla aliquam neque eu neque ultricies faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi sed est sed mi congue ornare. Maecenas ut pulvinar felis, at imperdiet nibh."
+    },
+    {
+        "servidor": "gmail",
+        "remetente": "alice@hotmail.com",
+        "destinatario": "fulano@gmail.com",
+        "titulo": "Vaga para desenvolvedor Python",
+        "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et cursus diam. Pellentesque volutpat non turpis vel convallis. Duis faucibus nisi sit amet diam tempus egestas. Sed quis orci purus. Nullam cursus, mi non eleifend hendrerit, risus urna tincidunt quam, in rutrum felis enim eu eros. Quisque ac scelerisque massa. Sed ac finibus neque, ut commodo est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean semper quis velit in posuere. Sed in feugiat magna, vitae dictum justo. Nulla quis tellus in sapien pharetra facilisis. Vivamus eget mollis massa. Nulla aliquam neque eu neque ultricies faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi sed est sed mi congue ornare. Maecenas ut pulvinar felis, at imperdiet nibh."
+    },
+    {
+        "servidor": "yahoo",
+        "remetente": "bob@example.com",
+        "destinatario": "rh@sistema.com",
+        "titulo": "Agradecimentos",
+        "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et cursus diam. Pellentesque volutpat non turpis vel convallis. Duis faucibus nisi sit amet diam tempus egestas. Sed quis orci purus. Nullam cursus, mi non eleifend hendrerit, risus urna tincidunt quam, in rutrum felis enim eu eros. Quisque ac scelerisque massa. Sed ac finibus neque, ut commodo est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean semper quis velit in posuere. Sed in feugiat magna, vitae dictum justo. Nulla quis tellus in sapien pharetra facilisis. Vivamus eget mollis massa. Nulla aliquam neque eu neque ultricies faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi sed est sed mi congue ornare. Maecenas ut pulvinar felis, at imperdiet nibh."
+    }
+]
